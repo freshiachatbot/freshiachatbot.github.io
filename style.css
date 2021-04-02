@@ -33,6 +33,37 @@ body{
     font-family: "Raleway", sans-serif;
 
 }
+.bgimg {
+
+    background-image: url('/manipal.jpg');
+
+    min-height: 100%;
+
+    background-position: center;
+
+    background-size: cover;
+
+    width: 100%;
+
+  padding-top: 10%;
+
+  
+
+    }
+
+    .txt{
+
+        background-color: #ffffff; 
+
+        border: 2.5px solid #000000;
+
+        margin:auto;
+
+        width: 50%;
+
+        height: 50%;
+
+    }
 
 html{
 
